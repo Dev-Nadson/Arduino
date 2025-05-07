@@ -52,4 +52,5 @@ Este projeto utiliza um Arduino Uno para monitorar se as portas estão fechadas,
 ## Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para adaptar e reutilizar o código.
+
 Link para a página do projeto: [Simulador de Ar Condicionado](https://www.tinkercad.com/things/dolAu5RwqGz-simulador-de-ar-condicionado)
